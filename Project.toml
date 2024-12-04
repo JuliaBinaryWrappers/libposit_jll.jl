@@ -1,6 +1,6 @@
 name = "libposit_jll"
 uuid = "51f2fc5f-9d5c-580b-98f8-9638c2091362"
-version = "1.0.0+0"
+version = "1.0.1+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"

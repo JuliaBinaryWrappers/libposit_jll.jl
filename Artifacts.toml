@@ -1,151 +1,151 @@
 [[libposit]]
 arch = "aarch64"
-git-tree-sha1 = "ecf645846290e11a0f1ad14ed6b55532fbba18c7"
+git-tree-sha1 = "69bf1a468d799dc1c82fe9c710a88bfd1b466fe5"
 os = "macos"
 
     [[libposit.download]]
-    sha256 = "1e4df5ee9a20c26fb48ed7ae669f07c671552ca39c92084e74b3a2db809ec2ac"
-    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.0+0/libposit.v1.0.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "454e45846ba95001a753a3c7a90b59a7dc1cf9ce6c3d0dd16f11f906659294ef"
+    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.1+0/libposit.v1.0.1.aarch64-apple-darwin.tar.gz"
 [[libposit]]
 arch = "aarch64"
-git-tree-sha1 = "f1fa2141207036ed8b9daeb6e868f52f0f8d6aee"
+git-tree-sha1 = "f24a945360fafbbc63df66e4601aa12122dc9887"
 libc = "glibc"
 os = "linux"
 
     [[libposit.download]]
-    sha256 = "09c2a498e13b0aab9459130570a8ea9a4423a2603e2e58e9ae846b81b6ebcef6"
-    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.0+0/libposit.v1.0.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "34e237b9591ddc26b9eca082d0a97e18c5e1c92b082b5488333fe08d6cc4ddac"
+    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.1+0/libposit.v1.0.1.aarch64-linux-gnu.tar.gz"
 [[libposit]]
 arch = "aarch64"
-git-tree-sha1 = "086610b06a4a5f85a0247600bfc8bc0798018f3b"
+git-tree-sha1 = "5cabded1f7e844adf3c94c1e0b5104d04e9519da"
 libc = "musl"
 os = "linux"
 
     [[libposit.download]]
-    sha256 = "be5305bcfef7c9342c204603d8367a54b5e31904a7b250c738952c947f512997"
-    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.0+0/libposit.v1.0.0.aarch64-linux-musl.tar.gz"
+    sha256 = "ad3ad4e5528871aa30fe945ba3abe36d3ec6169a5cd28e7d582320b2b70c6e9c"
+    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.1+0/libposit.v1.0.1.aarch64-linux-musl.tar.gz"
 [[libposit]]
 arch = "aarch64"
-git-tree-sha1 = "c4b8e589879fb8ee216ef67ebd5f70424490e120"
+git-tree-sha1 = "b2ce74527b8578abb41a5c8688898e4837e56f04"
 os = "freebsd"
 
     [[libposit.download]]
-    sha256 = "785bd944006cbf2173acb6d17ffe926b4f8c1a7643c36128d4a390a992cc0666"
-    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.0+0/libposit.v1.0.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "3cebb362c81fc86c493f09cb9cd8a67c5c747a5e0be7560a58051ef868b8edc8"
+    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.1+0/libposit.v1.0.1.aarch64-unknown-freebsd.tar.gz"
 [[libposit]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "cad75ce5f490acb12ca2ad4723c936cdf6093cdf"
+git-tree-sha1 = "2a0206421fed911111f661941caab254becab6f2"
 libc = "glibc"
 os = "linux"
 
     [[libposit.download]]
-    sha256 = "2b97d667f8e0c078d66c8251a7eb5d259399d49b34e049e200eafd143fb1e999"
-    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.0+0/libposit.v1.0.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "0e95dfbdf811685cdccc038b959145e26cd042fdc82ecac680c374acfa57fce3"
+    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.1+0/libposit.v1.0.1.armv6l-linux-gnueabihf.tar.gz"
 [[libposit]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "d09b1ef0b166b054d4369559860d6521c4486bee"
+git-tree-sha1 = "a8359eb49c113825e476bc7ef999633586f66a21"
 libc = "musl"
 os = "linux"
 
     [[libposit.download]]
-    sha256 = "3e2f2259601877efb6c02385bcd4251d79e3b26ff4e9fac5ede2bdaab3d39775"
-    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.0+0/libposit.v1.0.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "f56fa50b4887da54a7d6c22afb62387e2cb58be84e62b7aa7c11eafccd91eed0"
+    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.1+0/libposit.v1.0.1.armv6l-linux-musleabihf.tar.gz"
 [[libposit]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "4dd8b8b38f28b9c9e6d8c1c3ca2e16f091e9cf55"
+git-tree-sha1 = "8fb75656505bf670eb44ea8b4b1c84e1fc3ce46b"
 libc = "glibc"
 os = "linux"
 
     [[libposit.download]]
-    sha256 = "694931fc712418e2aa536227bfb59a257de32540237fe65d5feb0b51396821ec"
-    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.0+0/libposit.v1.0.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "6b29c0ede537dbf6e0338f35221dbc896c54f99b38b85c044bee9b2bd4e94b1e"
+    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.1+0/libposit.v1.0.1.armv7l-linux-gnueabihf.tar.gz"
 [[libposit]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "f2e704f0d5080b4d4bf09ef9ac503beaf25db9ac"
+git-tree-sha1 = "c8bdcd1cc7dae2765179c83f9b5d427fa928796f"
 libc = "musl"
 os = "linux"
 
     [[libposit.download]]
-    sha256 = "051fe237819ed76f67a9d77afa7927eaf413bcd89c2611f49b6698a71339c916"
-    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.0+0/libposit.v1.0.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "3fe0c623b182652846989462ffc5e31d6a56dd30df68b06fb3cd20abe5db1f06"
+    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.1+0/libposit.v1.0.1.armv7l-linux-musleabihf.tar.gz"
 [[libposit]]
 arch = "i686"
-git-tree-sha1 = "7b454424bcd0898f2d9f218f71c264752615ac45"
+git-tree-sha1 = "dfe2138391566bb5fc7af3fcb92b1b424333a852"
 libc = "glibc"
 os = "linux"
 
     [[libposit.download]]
-    sha256 = "1d08a0bc5ab1e54a0317faba1e0e38501cf4f1c540fe29180d23bd2c5a1a8892"
-    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.0+0/libposit.v1.0.0.i686-linux-gnu.tar.gz"
+    sha256 = "6c3123392331f68854260f412750ca8c46ee931d39f908e714d6cd516039d10a"
+    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.1+0/libposit.v1.0.1.i686-linux-gnu.tar.gz"
 [[libposit]]
 arch = "i686"
-git-tree-sha1 = "ba6e256da0a6db5140b96b05a64fcad70b842cbd"
+git-tree-sha1 = "c87e307869e8a32595ad514a01cfc1db7254bd37"
 libc = "musl"
 os = "linux"
 
     [[libposit.download]]
-    sha256 = "0f132af8cabc1ee2e0a57b45b807c1d15ac409bbbce9619b29bb89ce9f201388"
-    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.0+0/libposit.v1.0.0.i686-linux-musl.tar.gz"
+    sha256 = "71485e0c06d679986174621d89ec6481c3c8ecffe29dffc262988f98df5db66f"
+    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.1+0/libposit.v1.0.1.i686-linux-musl.tar.gz"
 [[libposit]]
 arch = "i686"
-git-tree-sha1 = "55bf286863b91e1f91363311a28aa791cace5fc4"
+git-tree-sha1 = "5f59ce45d788ff31afd66578b3018fb094719884"
 os = "windows"
 
     [[libposit.download]]
-    sha256 = "bbadd33978a322508a73a9aa7a149f9b2b1efb319e44591a1cb00b17cbccdedb"
-    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.0+0/libposit.v1.0.0.i686-w64-mingw32.tar.gz"
+    sha256 = "dad562370cf2e72896f5e1db2feebfb90d6a5e74ad41519289b02df046add5f6"
+    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.1+0/libposit.v1.0.1.i686-w64-mingw32.tar.gz"
 [[libposit]]
 arch = "powerpc64le"
-git-tree-sha1 = "05c7ca896eed38497ebf08342ab283b2ccffe58f"
+git-tree-sha1 = "90f83caa8ec05584a4d3b0e9e4d8b23265c156e2"
 libc = "glibc"
 os = "linux"
 
     [[libposit.download]]
-    sha256 = "80674d66d073d007a33ed67672c1c716a8c1bedb6df09cc2ddc85a2bfdda8777"
-    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.0+0/libposit.v1.0.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "b3bf74cbfea72471ea95183f104f8be8d3d4388a8a191f29f1ab3217fd5c53c5"
+    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.1+0/libposit.v1.0.1.powerpc64le-linux-gnu.tar.gz"
 [[libposit]]
 arch = "x86_64"
-git-tree-sha1 = "3011d11e2f740d92c088175afae9caecbe6713f1"
+git-tree-sha1 = "e20aad2017f0c73de345012df9d9f11060e886d6"
 os = "macos"
 
     [[libposit.download]]
-    sha256 = "d0c02738f67b822679b5bf87cab07f05083f9b3b5946f646eefd29634895df22"
-    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.0+0/libposit.v1.0.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "89a097a68a5bf1a6f7b08818b53ba9b4b60b5ccd398e424ef5ab088d8dd7d517"
+    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.1+0/libposit.v1.0.1.x86_64-apple-darwin.tar.gz"
 [[libposit]]
 arch = "x86_64"
-git-tree-sha1 = "38549985b779369c440db9661d2c4a95187cdd1d"
+git-tree-sha1 = "3d8dcf583aac7c379bb64bb5e1a7b8f677b3388f"
 libc = "glibc"
 os = "linux"
 
     [[libposit.download]]
-    sha256 = "670adb0628a722cd5a2b90d9d4cd504555e3ea35e0bdcce5df42ff0b1558b832"
-    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.0+0/libposit.v1.0.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "a4a4c67638ba73de9b28955d778e23dae1f7118f2b1f1df280970fed9eb3af3c"
+    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.1+0/libposit.v1.0.1.x86_64-linux-gnu.tar.gz"
 [[libposit]]
 arch = "x86_64"
-git-tree-sha1 = "0c6894428337cb889dc7e300a65218cb279cfa02"
+git-tree-sha1 = "e1998b1d888c54cee3529f62d477aacd06360261"
 libc = "musl"
 os = "linux"
 
     [[libposit.download]]
-    sha256 = "6ce27d28e978bd4ba4f261c3f7c69e86cbc40edf13a31924a263f593433a0d2e"
-    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.0+0/libposit.v1.0.0.x86_64-linux-musl.tar.gz"
+    sha256 = "6ea9a96f8e08429c22c00902158225b3630f76875ad409f458faedb1c179d3c8"
+    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.1+0/libposit.v1.0.1.x86_64-linux-musl.tar.gz"
 [[libposit]]
 arch = "x86_64"
-git-tree-sha1 = "d9ad54e4b948d6ddd1ac333a903a016a1db0cb88"
+git-tree-sha1 = "b4b9035117f5618d6c7bbf746c66e0e7bb145421"
 os = "freebsd"
 
     [[libposit.download]]
-    sha256 = "9de600ba6f9e05201c1f27d915659f6b936093f6507c3a26ad77af3acb889a48"
-    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.0+0/libposit.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "26e04b136ca58597fecca1c262f3e82f82c2459970e055d90e2843d198f027a8"
+    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.1+0/libposit.v1.0.1.x86_64-unknown-freebsd.tar.gz"
 [[libposit]]
 arch = "x86_64"
-git-tree-sha1 = "de33076c65fbae0d5f6f49c9bd088a3921c217dd"
+git-tree-sha1 = "dab3eaa7e0c0c9c5b19dd343ce6e05fb9e689b75"
 os = "windows"
 
     [[libposit.download]]
-    sha256 = "cf04d1ae8751403a55a5d31ac91996fe240cf0cadb37046c99cd71646447b1f0"
-    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.0+0/libposit.v1.0.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "2148dc9df053c298a12077aba092c7358f83712ff2e1e97f75e833a05ddec41c"
+    url = "https://github.com/JuliaBinaryWrappers/libposit_jll.jl/releases/download/libposit-v1.0.1+0/libposit.v1.0.1.x86_64-w64-mingw32.tar.gz"
